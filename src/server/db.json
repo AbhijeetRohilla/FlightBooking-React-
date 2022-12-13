@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "passenger": "John Doe",
+      "ticketNum": "5",
+      "flightId": "Ind-108"
+    },
+    {
+      "id": 4,
+      "passenger": "Jane Doe",
+      "ticketNum": "3",
+      "flightId": "Indo-99"
+    }
+  ]
+}

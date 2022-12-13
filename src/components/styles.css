@@ -1,0 +1,18 @@
+.background{
+    background-image: url('../../assets/Aeroplane.jpg');
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    background-size:cover;
+    background-position: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 2rem;
+}
+.background .heading{
+    color: rgb(173, 62, 62);
+    text-align: center;
+}
+.header{
+    background-color: black
+}
